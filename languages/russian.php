@@ -4,7 +4,7 @@
  * 
  * Russian Language file
  * Written by Mikhail Gubin, Yaroslavl Cloud Infrastructures PSBE
-* Site: yarcloud.pw
+ * Site: yarcloud.pw
  * 
  * To translate to another language, copy this to a new PHP file named "yourlanguage.php", and translate all the english words on the right (to the right of the = sign).
  * Try and keep the structure of the file the same, and make sure you close all '';
@@ -96,7 +96,7 @@ $lang['permissions']        = 'Разрешения';
 
 // Error messages
 $lang['err_query']          = 'Ошибка запроса в базу данных';
-$lang['err_sql_update']     = Ошибка обновления базы данных;
+$lang['err_sql_update']     = 'Ошибка обновления базы данных';
 
 // Left Panel
 $lang['home']               = 'Домой';
@@ -158,7 +158,7 @@ $lang['invalid_ip']         = 'Неверный IP, проверьте его и
 // Servers
 $lang['create_sv']          = 'Создать сервер';
 $lang['invalid_port']       = 'Порт неверен, попробуйте снова.';
-$lang['invalid_intname']    = Неверное внешнее имя.  Разрешены только буквы, цифры и символы, -  и _.  Попробуйте снова.';
+$lang['invalid_intname']    = 'Неверное внешнее имя.  Разрешены только буквы, цифры и символы, -  и _.  Попробуйте снова.';
 $lang['item']               = 'Единица';
 $lang['value']              = 'Значение';
 $lang['user_editable']      = 'Редактируемое';
@@ -177,7 +177,7 @@ $lang['cloud_avail']        = 'Игры, работающие на <i>данно
 $lang['cloud_topmsg']       = 'Чтобы добавить другие игры, нажми сюда.';
 
 // Games
-$lang['games_add_desc']     = Используйте эту форму для добавления новой игры.  Вы начнете создание шаблона.';
+$lang['games_add_desc']     = 'Используйте эту форму для добавления новой игры.  Вы начнете создание шаблона.';
 $lang['games_up_icon']      = '<b>Замечание:</b> Загрузите иконку размером 64x64 формата PNG в';
 $lang['note_steam_auto']    = '<b>Замечание:</b> Игры, использующие Steam, используют собственный инсталлятор.';
 
